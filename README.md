@@ -1,2 +1,1 @@
-# bookbot
-Boot.Devs guided tutoral.
+BookBot is my first real git-project!
